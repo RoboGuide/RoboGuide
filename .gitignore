@@ -48,3 +48,8 @@ build/
 output/
 debug/
 release/
+
+#Definidas Por el Usuario
+Piezas Original/
+OldVersions/
+*.png
