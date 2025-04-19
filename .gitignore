@@ -1,0 +1,50 @@
+# Archivos temporales y de backup
+*.bak
+*.log
+*.tmp
+*.~*
+*.swp
+*.asd
+*.err
+
+# Archivos generados por Inventor
+*.ipj
+*.ldb
+*.lock
+*.idv
+*.ipj.autobackup
+*.old
+*.xml.bak
+
+# Carpetas comunes que no deberían subirse
+__MACOSX/
+Thumbs.db
+ehthumbs.db
+.DS_Store
+desktop.ini
+
+# Archivos de Autodesk Vault o referencias locales
+*.ac$
+*.xlf
+*.iProperties
+*.DesignTrackingProperties
+*.InventorProject
+
+# Directorios de caché
+*.bak~
+~$*
+*.~*
+
+# Archivos temporales de AutoCAD por si se combinan proyectos
+*.sv$
+*.dwk
+*.dwl*
+*.bak
+*.ac$
+
+# Carpetas específicas de trabajo
+/tmp/
+build/
+output/
+debug/
+release/
