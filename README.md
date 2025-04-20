@@ -18,10 +18,10 @@ Además de facilitar la movilidad, este proyecto busca despertar el interés en 
 
 - **Movilidad autónoma**: El robot se desplaza de forma autónoma sin intervención del operador.
 - **Trazado de rutas**: El robot calcula rutas óptimas según el destino ingresado por el usuario.
-- **Interacción**: El usuario interactúa mediante pantalla táctil y botones físicos.
+- **Interacción**: El usuario interactúa mediante una pantalla led y botones físicos.
 - **Detección de obstáculos**: El robot detecta y evita obstáculos en su camino.
 - **Control energético**: Monitoreo y gestión eficiente de la batería.
-- **Comunicación multilingüe**: El robot se comunica en varios idiomas.
+- **Comunicación multilingüe**: El robot se comunica en español o inglés.
 - **Localización y mapeo**: El robot determina su posición y actualiza su mapa en tiempo real.
 
 ---
