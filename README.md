@@ -75,6 +75,6 @@ El sistema se compone de los siguientes módulos principales:
 
 ---
 
-## 🛠️ Materiales tentativos
+## ⚙️ Materiales tentativos
 
 - **Motores:** Greartisan DC 12V 1000RPM Gear Motor High Torque Electric Micro Speed Reduction Geared Motor Eccentric Output Shaft 37mm Diameter Gearbox
