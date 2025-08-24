@@ -72,3 +72,9 @@ El sistema se compone de los siguientes módulos principales:
 - Integración de algoritmos de navegación, SLAM y percepción multimodal.
 - Operación eficiente con bajo consumo energético.
 - Difusión del proyecto en eventos académicos y generación de ideas para iteraciones futuras.
+
+---
+
+## 🛠️ Materiales tentativos
+
+- **Motores:** Greartisan DC 12V 1000RPM Gear Motor High Torque Electric Micro Speed Reduction Geared Motor Eccentric Output Shaft 37mm Diameter Gearbox
